@@ -44,4 +44,4 @@ toc
 cd(true_pwd)
 
 
-save('jaleB.mat', 'a');
+save('yaleB.mat', 'a');
